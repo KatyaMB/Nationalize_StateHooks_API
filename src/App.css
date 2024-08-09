@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.buttonClick {
+  background-color: lightblue;
+  color: darkblue;
+  font-size: 15px;
+  border: none;
+  margin-left: 1rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 2rem;
+  border-radius: 0.2rem;
+}
+
+.inputName {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  font-size: 15px;
+  margin-right: 0.5rem;
+}
+
+.headerOne {
+  text-transform: capitalize;
+}
